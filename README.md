@@ -23,7 +23,7 @@
 + tested and works on a windows 10 OS , might not on other systems , or may need some adjustments
 + check comments inside the script for further details on how to use/modify it for your purposes
 + a usage example could be found in the repo [beeps_and_drawings](https://github.com/iskmz/beeps_and_drawings/) :-
-  - [beepnotes2__menu.py] (https://github.com/iskmz/beeps_and_drawings/blob/main/beepnotes2__menu.py)
+  - [beepnotes2__menu.py](https://github.com/iskmz/beeps_and_drawings/blob/main/beepnotes2__menu.py)
   - [draw__menu.py](https://github.com/iskmz/beeps_and_drawings/blob/main/draw__menu.py)
 
 ----------------------
